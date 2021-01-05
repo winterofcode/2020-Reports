@@ -1,26 +1,4 @@
-# Developer - Winter of Code 2020
+### Winter of Code 2020 Reports:
 
-# FirstName LastName
-
-### Organisation Name : Project Name
-
-Overview
-
-# Contributions
-
-- Contribution list
-- Contribution list
-- Contribution list
-
-# New Features
-
-# Small Bugs
-
-- Link the issues
-- Link the issues
-
-Here are some of [my PRs]()
-
-# Future Scope
-
-# Overall Experience
+Template: [firstname-lastname.md](https://github.com/winterofcode/2020-Reports/blob/master/ReadMe.md)
+(Example) Filled out report: https://submitty.org/developer/google_summer_of_code/2019_AnubhavSingh

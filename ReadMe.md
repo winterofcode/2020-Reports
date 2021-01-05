@@ -2,7 +2,7 @@
 
 # FirstName LastName
 
-### <Organisation Name> : <Project Name>
+### Organisation Name : Project Name
 
 Overview
 

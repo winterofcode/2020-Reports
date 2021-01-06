@@ -1,6 +1,6 @@
 # Developer - Winter of Code 2020
 # Arush Sharma
-## Dynopii : pyvirtualaudiocable
+## [Dynopii](https://dynopii.com/) : [pyvirtualaudiocable](https://github.com/dynopii/pyvirtualaudiocable)
 
 The project was to develop a python based virtual audio cable. The project had no initial codebase and was built from scratch. I worked on developing the virtual audio cable for a linux operating system environment, and by the end of this WoC, was able to develop a python script that accomplished the goals we set out with.
 

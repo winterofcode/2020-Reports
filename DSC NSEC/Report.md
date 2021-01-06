@@ -53,7 +53,7 @@ This project was mentored and guided by - Rishiraj Acharya,Rajwrita,Ritesh.
  
 
 # Overall Experience
--I had an enriching and exciting experience in winter of code,2020, working on DocScanner under DSC_NSEC. 
+- I had an enriching and exciting experience in winter of code,2020, working on DocScanner under DSC_NSEC. 
 I was glad to be mentored by Rishiraj Acharya,Rajwrita,Ritesh(thanks for going through my PRs!). 
 I express my sincere thanks to all students who worked on DocScanner
 as part of WOC,2020.

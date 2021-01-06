@@ -17,7 +17,7 @@
 
 ## There are Following Steps:-
 ## Reading image using OpenCV
-<img src="/images/1.jpg" height="250"/>
+<img src="/DSE NSEC/report/images/1.jpg" height="250"/>
 
 ## Image Preprocessing
 * Converting orginal image to grey color

@@ -38,5 +38,5 @@ Hence, most of the time was invested in the intensive research. I wasn't success
   - This opens up a lot of doors of opportunity, exploring and learning.
 - Quoting Anubhav Singh's words: *"We were given a blank canvas, and we had to paint and open the doors of our imaginations."*
 - My overall contribution was not very satisfactory or significant (*I'm sorry for my loss*), but I learned how things worked and interacted in the real world - both codewise and human nature wise.
-- However, I was pleased to have mentors: ani4aniket and Kazy, & also, a "code-mate" like [Arush](https://github.com/arushsharma24) who was very respectful, friendly and genuine.
-- Finally, I was very glad to have a mentor like - [xprilion](https://github.com/xprilion/) whose words are very insightful and full of valid reasoning. My only regret would be that, I didn't converse or interact or brainstorm more with him, because his experience truly speaks.
+- However, I was pleased to have mentors like ani4aniket and Kazy, & also, a "code-mate" like [Arush](https://github.com/arushsharma24), all of them were very respectful, friendly and genuine.
+- Finally, I was very glad to have a mentor - [xprilion](https://github.com/xprilion/) whose words were very insightful and full of valid reasoning. My only regret would be that, I didn't converse, interact and brainstorm more with him, because his experience truly speaks. I will definitely look up to him in my future.

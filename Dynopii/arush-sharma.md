@@ -15,8 +15,8 @@ This project was to be built from scratch, and I was free to proceed in any dire
 I also had a great experience learning python, especially learning the [subprocess](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd7K2T1IbuAhWVe30KHS9vAxgQFjAAegQIDxAC&url=https%3A%2F%2Fdocs.python.org%2F3%2Flibrary%2Fsubprocess.html&usg=AOvVaw13tAcPYwTJqhVk1hrcVHTt) module while also understanding piping between commands in the linux terminal and it's execution from python.
 
 My work was submitted in the PR : [#2](https://github.com/dynopii/pyvirtualaudiocable/pull/2) "Virtual device creation and routing microphone audio via a python script", with a few notable commits being :
-  - Commit 619e3ddd47ce72347ce3ff57e5d0df7b212fae1a : Python script pipes audio from arecord to aplay, and the modules are loaded and unloaded by running shell scripts
--  598ddad00aba953c58be47a59d794123b9eeecbd : Included the shell scripts into the python code, so that it is completely python based and consists of a single file.
+  - [619e3dd](https://github.com/dynopii/pyvirtualaudiocable/pull/2/commits/619e3ddd47ce72347ce3ff57e5d0df7b212fae1a) : Python script pipes audio from arecord to aplay, and the modules are loaded and unloaded by running shell scripts
+-  [598ddad](https://github.com/dynopii/pyvirtualaudiocable/pull/2/commits/598ddad00aba953c58be47a59d794123b9eeecbd) : Included the shell scripts into the python code, so that it is completely python based and consists of a single file.
   
 # Future Scope
 I beleive that the development of this virtual audio cable has only begun, and we have a long way to go ahead in it. This solution works and can be used, but we still face some issues in certain cases which I would like to see resolved in the future :

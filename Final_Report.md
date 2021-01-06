@@ -31,6 +31,10 @@
 * After getting that contour we draw a bounding box around it for visualisation and keep the coordinates of the corners of the required contour detected.
 <img src="/images/Conttour.jpg" height="250"/>
 
+## Reorder coordinates
+* This is the main function that resolves the issue posted in the repo. i.e to get corret order of the corner points of the contour detected.
+* Arranging the corner coordinates in the correct order for Wrapping function at realtime using simple numpy library and basic arithmetic functions.
+
 ## Wrapping the Image
 * In this step we wrap the image with the ordered points i.e. (0,0) (width, 0) (0, height) and (width, height) which we got from the reorder function.
 

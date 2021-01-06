@@ -2,7 +2,8 @@
 # Malayaj Rath
 ### DSC IEM : rake_new2
 
- The Projects I was working on are Automatic Spell Check & Topic Modelling of [Rake_new2](https://github.com/BALaka-18/rake_new2/tree/master) application which is a Rapid Automatic Keyword Extraction library .
+ The Projects I was working on are [Automatic Spell Check](https://github.com/BALaka-18/rake_new2/tree/feature-addition/feature_enhancements/malayajrath_feature_SpellCheck) & [Topic Modelling](https://github.com/BALaka-18/rake_new2/tree/feature-addition/feature_enhancements/malayajrath_feature_TopicModeling) which belongs to [Rake_new2](https://github.com/BALaka-18/rake_new2/tree/master) application which is a Rapid Automatic Keyword Extraction library .
+
  Automatic Spell Check help in autocorrection of the misspelt word . 
 
  Topic Modelling help to find relevant topics of a given statement or paragraph.

@@ -25,14 +25,14 @@
 
      All code was written in sync with rake_new2 tech stack and style.
 
- [#34](https://github.com/BALaka-18/rake_new2/pull/34) Automatic Spell Check 
+ [#34](https://github.com/BALaka-18/rake_new2/pull/34) [Automatic Spell Check](https://github.com/BALaka-18/rake_new2/tree/feature-addition/feature_enhancements/malayajrath_feature_SpellCheck) 
 
  ### 2.Topic Modelling
      In this task , I was responsible for making a Topic Modelling feature when enabled and specified number of topics it find relevant topics .
 
      All code was written in sync with rake_new2 tech stack and style.
 
- [#34](https://github.com/BALaka-18/rake_new2/pull/34) Topic Modelling
+ [#34](https://github.com/BALaka-18/rake_new2/pull/34) [Topic Modelling](https://github.com/BALaka-18/rake_new2/tree/feature-addition/feature_enhancements/malayajrath_feature_TopicModeling)
    
 # New Features
     1.  Automatic Spell Check

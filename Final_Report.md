@@ -17,14 +17,15 @@
 
 ## There are Following Steps:-
 ## Reading image using OpenCV
-<img src="/images/1.jpg" height="250"/>
+<img src="https://i.ibb.co/ng1d8dG/1.jpg" alt="Original Image" height="250"/>
 
 ## Image Preprocessing
 * Converting orginal image to grey color
 * Converting grey image to blurred image using Gaussian Blur
 * Detecting edges using canny edge detector
 * dilation and erosion of inage for better contour detection.
-<img src="https://i.ibb.co/ng1d8dG/1.jpg" alt="Original Image" height="250"/>
+<img src="https://i.ibb.co/QpgH0d7/Threshold.jpg" alt="Preprocessed Image" height="250" >
+
 
 ## Contour Detection
 * He we handle all the contour Detected and keep only the one with the greatest contour area.

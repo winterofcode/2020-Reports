@@ -1,6 +1,6 @@
 <center><a href="https://winterofcode.com/"><img src="https://camo.githubusercontent.com/c73f77959233a8adb69f3dee7bbb3ba5e016f4239c7496c82538cc60c984f56e/68747470733a2f2f77696e7465726f66636f64652e636f6d2f7374617469632f6d656469612f6f72672d6c6f676f2e39333564376634382e706e67" alt="gsoc" height="50"/></a>
 <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo.png" height="45"/></a>
-<a href="https://fury.gl/latest/community.html"><img src="/images/header.jpg" alt="DSC-NSEC" height="70"/></a>
+<a href="https://fury.gl/latest/community.html"><img src="https://ibb.co/1Tf7qG5" alt="DSC-NSEC" height="70"/></a>
 </center>
 
 # Winter of Code Final Work Product

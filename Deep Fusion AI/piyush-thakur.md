@@ -34,28 +34,11 @@ Here is my [colab](https://colab.research.google.com/drive/16Eq2_ajBd-7xGdmXG4aK
 
 ###### Model Benchmark
 
-<table>
-<tr>
-<th>Model Name</th>
-<th>Model Size(MB)</th>
-<th>Elapsed Time(s)</th>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_int8</td>
-<td>4.9</td>
-<td>1223.54</td>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_fp16</td>
-<td>8.2</td>
-<td>83.92</td>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_dr</td>
-<td>4.9</td>
-<td>1240.47</td>
-</tr>
-</table>
+|Model Name|Model Size(MB)|Elapsed Time(s)|
+|--- |--- |--- |
+|SSD_mobileDet_cpu_coco_int8|4.9|1223.54|
+|SSD_mobileDet_cpu_coco_fp16|8.2|83.92|
+|SSD_mobileDet_cpu_coco_dr|4.9|1240.47|
 
 As we can see from the **Model Benchmark** table shown above, I have shown the **model variants size** and **elapsed time** taken to detect the pedestrians in a static image.
 
@@ -87,32 +70,11 @@ Here is my [colab](https://colab.research.google.com/drive/1HczCWXwnaqU1uZ9rGxnx
 
 ###### Model Benchmarks
 
-<table>
-<tr>
-<th>Model Name</th>
-<th>Model Size(MB)</th>
-<th>Elapsed Time(s)</th>
-<th>FPS</th>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_int8</td>
-<td>4.9</td>
-<td>705.32</td>
-<td>0.75</td>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_fp16</td>
-<td>8.2</td>
-<td>52.79</td>
-<td>10.06</td>
-</tr>
-<tr>
-<td>SSD_mobileDet_cpu_coco_dr</td>
-<td>4.9</td>
-<td>708.57</td>
-<td>0.75</td>
-</tr>
-</table>
+|Model Name|Model Size(MB)|Elapsed Time(s)|FPS|
+|--- |--- |--- |--- |
+|SSD_mobileDet_cpu_coco_int8|4.9|705.32|0.75|
+|SSD_mobileDet_cpu_coco_fp16|8.2|52.79|10.06|
+|SSD_mobileDet_cpu_coco_dr|4.9|708.57|0.75|
 
 As we can see from the **Model Benchmark** table shown above, I have shown the **model variants size**, **elapsed time**, and **FPS(Frame per second)** of all the three variants of the **SSD_mobileDet_cpu_coco** model.
 

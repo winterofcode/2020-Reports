@@ -134,7 +134,7 @@ Here is the image ![image](https://github.com/piyush-cosmo/WoC_sdd_test/blob/mas
 * The first result in the image given above is with the use of **cpu with 4 threads**.
 * The second result in the image given above is with the use of **gpu**.
 
-## Final integration in colab to compelete the project
+## Final integration in colab to complete the project
 
 As **SSD_mobileDet_cpu_coco_fp16** produced so good results, mentors instructed us to incorporate this model into the whole pipeline.
 

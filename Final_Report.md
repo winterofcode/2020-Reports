@@ -3,7 +3,7 @@
 <a href="#"><img src="https://i.ibb.co/0rjmMyS/header.jpg" alt="header" border="0"></a>
 </center>
 
-# Winter of Code Final Work Product
+# Developer - Winter of Code 2020
 * **Name:** Abhinav Chauhan
 * **Organisation:** DSC - NSEC
 * **Project:** [DocScanner](https://github.com/dscnsec/DocScanner.git)

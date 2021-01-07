@@ -9,6 +9,7 @@ I am [Subhasmita Swain](https://github.com/SubhasmitaSw) an undergraduate from S
 This project was mentored by [Sayak Paul](https://github.com/sayakpaul) and [Rishiraj Acharya](https://github.com/rishiraj).
 
 # Contributions
+   Here's my [colab](https://colab.research.google.com/drive/1ZSdQ3eVCBLejNgE-f96fHHv1eEohlp7s?usp=sharing) notebook containing my work.
 - Tested different pre-trained TF models for their performance compyling to the Detector
 - Prepared detection and distance measurement algorithm scripts using ssd-mobilenet-v2 model
 - Tested the performance of TinyYOLO on NVIDIA Jetson Nano V2

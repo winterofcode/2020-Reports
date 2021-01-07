@@ -164,4 +164,4 @@ We can implement this real-time social distancing detection model to places like
 
 # Overall Experience
 
-It was really a great experience since this 1 month of Winter of Code, learned a lot from mentors. We were actually blessed with the mentors, being so knowledgable and down-to-earth persons. Their support and guidance made this project a complete one. The peers were great too in their own way, I enjoyed bonding and working with them. I loved the whole journey.
+It was really a great experience since this 1 month of Winter of Code, learned a lot from mentors. We were actually blessed with the mentors, being so knowledgable and down-to-earth persons. Their support and guidance made this project a complete one. The peers were great too in their own way, I enjoyed bonding and working with them. I loved the entire journey.

@@ -41,7 +41,6 @@
 
 ## Result Image
 * Here we diplay the the final scanned image.
-<img src="/images/Scanned.jpg" height="250"/>
 <img src="https://i.ibb.co/Jz4kwCZ/Scanned.jpg" alt="Scanned output image" height="250">
 
 ## Link To My Pull Request

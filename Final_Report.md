@@ -30,7 +30,7 @@
 ## Contour Detection
 * He we handle all the contour Detected and keep only the one with the greatest contour area.
 * After getting that contour we draw a bounding box around it for visualisation and keep the coordinates of the corners of the required contour detected.
-<img src="https://i.ibb.co/ZcLfYKR/Conttour.jpg" alt="Contour corner points" height="250">
+<img src="https://i.ibb.co/ZcLfYKR/Conttour.jpg" alt="Contour corner points" height="250" >
 
 ## Reorder coordinates
 * This is the main function that resolves the issue posted in the repo. i.e to get corret order of the corner points of the contour detected.
@@ -41,7 +41,7 @@
 
 ## Result Image
 * Here we diplay the the final scanned image.
-<img src="https://i.ibb.co/Jz4kwCZ/Scanned.jpg" alt="Scanned output image" height="250">
+<img src="https://i.ibb.co/Jz4kwCZ/Scanned.jpg" alt="Scanned output image" height="250" >
 
 ## Link To My Pull Request
 https://github.com/dscnsec/DocScanner/pull/5

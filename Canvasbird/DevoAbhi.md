@@ -4,28 +4,30 @@
 
 ## Organisation Name : [Canvasbird](https://github.com/Canvasbird)
 
-### Project : [Canvasboard](https://github.com/Canvasbird/canvasboard) <br> <br>
+### Project : [Canvasboard](https://github.com/Canvasbird/canvasboard)  
+#### My work on the Canvasboard project aimed at improving the different components and adding new features.
 
-#### My work on the Canvasboard project aimed at improving the different components and adding new features. <br> <br>
+I am [Abhinab Roy](https://github.com/DevoAbhi), an undergraduate student from Netaji Subhash Engineering College, Kolkata.  
 
-I am [Abhinab Roy](https://github.com/DevoAbhi), an undergraduate student from Netaji Subhash Engineering College, Kolkata. <br> <br>
-My work was mentored by [Kajol Kumari](https://github.com/kajol-kumari) and [Akash Madduru](https://github.com/akashmrc98). <br> [Akshay Sujith](https://github.com/goliakshay357) guided and helped me throughout the program. <br> <br>
+My work was mentored by [Kajol Kumari](https://github.com/kajol-kumari) and [Akash Madduru](https://github.com/akashmrc98).
+
+[Akshay Sujith](https://github.com/goliakshay357) guided and helped me throughout the program.
 
 # Contributions
 
-## 1. Added Daily Quote Feature <br>
+## 1. Added Daily Quote Feature 
 In this task, I added a feature to display a quote every new day on the dashboard page. 
 - [#228](https://github.com/Canvasbird/canvasboard/pull/228)
 
-## 2. Filter using Workspace<br>
+## 2. Filter using Workspace
 In this task, I added a search option in dashboard page. This feature enables the users to search their specific workspace by writing their initials in the search box.
 - [#267](https://github.com/Canvasbird/canvasboard/pull/267)
 
-## 3. Added Password Strength Classifier<br>
-This task was based on the issue that the users were able to sign up with a weak password which affects their account security. I added a feature to check the password strength and only let them sign up if the password is strong one/
+## 3. Added Password Strength Classifier
+This task was based on the issue that the users were able to sign up with a weak password which affects their account security. I added a feature to check the password strength and only let them sign up if the password is a strong one.
 - [#306](https://github.com/Canvasbird/canvasboard/pull/306)
 
-## 4. Miscellaneous<br>
+## 4. Miscellaneous
 
 I also solved some other issues that were interesting. The Pull Requests are listed below :-
 1. [#301](https://github.com/Canvasbird/canvasboard/pull/301) - In this, I removed a bug that even if the user adds a new workspace, the "No Workspace Found!" message would still display.
@@ -44,7 +46,7 @@ I also solved some other issues that were interesting. The Pull Requests are lis
   
 
 # Issues Opened
-## 1. The exit button does not have any function <br>
+## 1. The exit button does not have any function 
   * [#207](https://github.com/Canvasbird/canvasboard/issues/207) - In this, previous version of the Canvasboard project, the exit button in the boards page did not have any functionality.
   * [#215](https://github.com/Canvasbird/canvasboard/issues/#215) - This bug is related to the exit button in the boards page. If the user had some unsaved elements in the page, the user were still able to exit to the previous page. I tried to solve the issue using CanDeactivate guard and subject but later found that the Canvasboard had moved to a new version which shift the board component to a new component.
   * [#308](https://github.com/Canvasbird/canvasboard/issues/#308) - In this bug, the user were displayed a non-intuitive message when they try to sign up with a username that already existed. It is solved by one of the contributors and is closed now.
@@ -59,9 +61,7 @@ I believe my work has helped this project to some extent. I would like to have t
 4. Feature to exit the page using a button and ask the user to save changes during exit.
 
 # Overall Experience
-<p>
-  The one month of work in Canvasbird helped me learn and grow to a great extent. I was so lucky to be mentored by Kajol(Thanks for reviewing all my PRs) and Akash whose constant guidance helped me complete my tasks easily. I would further extend my gratitude towards Akshay, who was the person I always reached when I faced any issues regarding the understanding of the tasks. 
-</p>
-<p>
+
+The one month of work in Canvasbird helped me learn and grow to a great extent. I was so lucky to be mentored by Kajol(Thanks for reviewing all my PRs) and Akash whose constant guidance helped me complete my tasks easily. I would further extend my gratitude towards Akshay, who was the person I always reached when I faced any issues regarding the understanding of the tasks. 
+
 WoC with Canvasbird was an unforgettable and most learning experience for me. Being my first open-source organization where I contributed, Canvasbird will always have a special place.
-</p>

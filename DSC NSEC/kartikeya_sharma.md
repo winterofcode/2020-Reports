@@ -10,71 +10,55 @@
 
 
 ## About me
+
+[website]: https://savagecarol.github.io/
+[linkedin]: https://www.linkedin.com/in/savagecarol/
+[medium]: https://karthiksharma1411.medium.com/
+[twitter]: https://twitter.com/_savage_carol_
+[mail]: mailto:karthiksharma1411@gmail.com
+[youtube]: https://www.youtube.com/channel/UCbaBHATNs2ved8TWVJYhZ7Q?view_as=subscribe
 🎓 I’m a Mobile Developer enthusiast , Machine Learning Expert & Programmer a junior pursuing my Bachelors in Computer Science & Engineering 👨‍💻 I am passionate about Data Structure, Web ,DevOps & I enjoy learning new things. YouTuber
 
-<a href="https://www.linkedin.com/in/savagecarol/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/_savage_carol_">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:karthiksharma1411@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCbaBHATNs2ved8TWVJYhZ7Q?view_as=subscriber">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://karthiksharma1411.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://savagecarol.github.io/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />
-</a>
+[<img align="left" alt="kartikeya sharma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website]
+[<img align="left" alt="kartikeya sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kartikeya sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br>
 
 # About the Project - DSC-NSEC-App
 
 This is the organization app . which holds all the information of the organization like teams , events , info , task etc . technology used in this app for front end is flutter and for backend rest apis. This app provides you magnificient user interface , animations which is very interactive .   
 
-<a href="https://github.com/dscnsec/DSC-NSEC-App/">
-  <img align="left" width="40px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
-</a>
-
-<br>
+[project]: https://github.com/dscnsec/DSC-NSEC-App/
+[<img align="left" alt="project " width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][project]
 
 
 ### My Mentors
 
 #### saurav kumar
-<a href="https://www.linkedin.com/in/saurav0001kumar/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://github.com/saurav0001kuma">
-  <img align="left" width="24px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
-</a>
 
-<br>
+[sauravKumarLinkedIn]: https://www.linkedin.com/in/saurav0001kumar/
+[sauravKumarGithub]: https://github.com/saurav0001kumar
+[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][sauravKumarLinkedIn]
+[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][sauravKumarGithub]
+
 
 #### Ashutosh Krishna
-<a href="https://www.linkedin.com/in/ashutoshkrris/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://github.com/ashutoshkrris">
-  <img align="left" width="24px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
-</a>
 
-<br> 
+[ashutoshKrishnaLinkedIn]: https://www.linkedin.com/in/ashutoshkrris/
+[ashutoshKrishnaGithub]: https://github.com/ashutoshkrris
+[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ashutoshKrishnaLinkedIn]
+[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][ashutoshKrishnaGithub]
+ 
 
 #### Ayush Singh
-<a href="https://www.linkedin.com/in/ayush-singh-5823a5180/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://github.com/ayush-670">
-  <img align="left" width="24px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
-</a>
 
-<br>
+[ayushSinghLinkedIn]: https://www.linkedin.com/in/ashutoshkrris/
+[ayushSinghGithub]: https://github.com/ashutoshkrris
+[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ayushSinghLinkedIn]
+[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][ayushSinghGithub]
 
 # Contribtuions
 
@@ -132,3 +116,6 @@ This is the organization app . which holds all the information of the organizati
 * I learned a lot of new things in this journey the code base was so nicely written. It was very easy to undersatnd .
 * I learned new widgets and packages .
 * specially about animations that is used in this app was so amazing . and there code was properly written . animation part was very difficult but it is beautifully explained in the code it is a huge benifit for me .
+
+
+

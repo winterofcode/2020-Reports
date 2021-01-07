@@ -20,32 +20,28 @@
 [<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" alt="kartikeya sharma | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+
 # About the Project - DSC-NSEC-App
 This is the organization app . which holds all the information of the organization like teams , events , info , task etc . technology used in this app for front end is flutter and for backend rest apis. This app provides you magnificient user interface , animations which is very interactive .   
 
-[project]: https://github.com/dscnsec/DSC-NSEC-App/
-[<img align="left" alt="project " width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][project]/
+[<img align="left" alt="project " width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][project]
 
 
 ### My Mentors
 
-#### saurav kumar
-
-[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][sauravKumarLinkedIn]
-[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][sauravKumarGithub]/
 
 
-#### Ashutosh Krishna
+#### saurav kumar [<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][sauravKumarLinkedIn]
 
 
-[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ashutoshKrishnaLinkedIn]
-[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][ashutoshKrishnaGithub]/
+
+#### Ashutosh Krishna [<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ashutoshKrishnaLinkedIn]
+
  
+#### Ayush Singh [<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ayushSinghLinkedIn]
 
-#### Ayush Singh
-
-[<img align="left" alt="linked in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ayushSinghLinkedIn]
-[<img align="left" alt="github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />][ayushSinghGithub]/
 
 # Contribtuions
 
@@ -108,13 +104,12 @@ This is the organization app . which holds all the information of the organizati
 [website]: https://savagecarol.github.io/
 [linkedin]: https://www.linkedin.com/in/savagecarol/
 [medium]: https://karthiksharma1411.medium.com/
-[twitter]: https://twitter.com/_savage_carol_
-[mail]: mailto:karthiksharma1411@gmail.com
-[youtube]: https://www.youtube.com/channel/UCbaBHATNs2ved8TWVJYhZ7Q?view_as=subscribe
+[twitter]: https://twitter.com/_savage_carol_/
+[mail]: mailto:karthiksharma1411@gmail.com/
+[project]: https://github.com/dscnsec/DSC-NSEC-App/
+[youtube]: https://www.youtube.com/channel/UCbaBHATNs2ved8TWVJYhZ7Q?view_as=subscribe/
 [ayushSinghLinkedIn]: https://www.linkedin.com/in/ashutoshkrris/
-[ayushSinghGithub]: https://github.com/ashutoshkrris
 [ashutoshKrishnaLinkedIn]: https://www.linkedin.com/in/ashutoshkrris/
-[ashutoshKrishnaGithub]: https://github.com/ashutoshkrris
 [sauravKumarLinkedIn]: https://www.linkedin.com/in/saurav0001kumar/
-[sauravKumarGithub]: https://github.com/saurav0001kumar
+
 
